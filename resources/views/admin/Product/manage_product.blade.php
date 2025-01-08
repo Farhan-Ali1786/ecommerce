@@ -390,7 +390,7 @@
                     showAlert(result.responseJSON.status, result.responseJSON.message);
                 }
             });
-        });
+        }); 
     </script>
     <script>
         $(document).ready(function() {

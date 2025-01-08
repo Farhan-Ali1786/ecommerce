@@ -32,5 +32,5 @@
     <script src="https://cdn.ckeditor.com/4.25.0/standard/ckeditor.js"></script>
 
 
-	<title>E-Commerce</title>
+	<title>E-Commerce</title> 
 </head>

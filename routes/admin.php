@@ -64,7 +64,7 @@ Route::get('/tax', [taxController::class, 'index'])->name('admin.tax');
 Route::post('/add/tax', [taxController::class, 'store'])->name('add.tax');
 
 
-
+ 
 // Tax
 Route::get('/product', [productController::class, 'index'])->name('admin.product');
 Route::get('/manage_product/{id?}', [productController::class, 'view_product'])->name('admin.view_product');
